@@ -1,0 +1,88 @@
+To adapt this portfolio template to your profile as a beginner front-end web developer, I will need the following information:
+
+### Personal Information
+1. **Full Name**: Achour MEZDAD
+2. **Email**: mezdad.achour@hotmail.fr
+3. **Phone Number**: +213555972541
+4. **Birthday**:08-01-1995
+5. **Location**: Tizi-ouzou, algerie
+6. **Profile Picture** (URL or a new image file): (je vais la mettre plutard)
+
+### Sidebar and Navbar
+1. **Social Media Links** (Facebook, Twitter, Instagram, LinkedIn, GitHub, etc.):https://github.com/MezdadAchour https://www.facebook.com/achour.mezdad/ (je vais remplir instagram et linkedin plutard)
+2. **Navigation Items** (Do you want to keep About, Resume, Portfolio, Blog, Contact, or add/remove any?): supprime blog
+
+### About Section
+1. **Short Bio**: ecris la bio toi-meme, je suis developpeur web et passionné d'informatique et de design (inspire toi des infos que tu as sur moi)
+2. **Professional Objective**: je ne sais pas ecris toi meme quelque chose de pertinent
+
+### Services
+1. **Services Offered**: création de sites web, sites vitrines , e-commerce , (ajoute toutes sorte d'applications web pouvant etre codé avec react ...)
+
+### Testimonials
+1. **Client Testimonials**:j'en ai pas encore
+
+### Resume
+1. **Education**:
+   - web development essentials - GOMYCODE - 02 fév au 20 mai
+   -Front end developer - react js certified - GOMYCODE - 13 mai au 31 aout
+   -Maintenance Informatique et Installation de Réseaux EURL école technique laidi Tizi-Ouzou, Tizi Ouzou 12/2016- 6/2017
+   -Master en Automatique et Informatique Université de Tizi Ouzou, Tizi Ouzou 9/2017- 9/2019
+
+2. **Experience**:
+   - responsable maintenance informatique et developeur web
+   - ETS.ABED
+   - 2/2022 a aujourd'hui
+   - Brief Description of Roles (ecris la toi)
+
+   - Ingénieur En Automatique
+    - Mediterranean Float Glass - MFG
+    - 1/2021- 4/2021
+
+3. **Skills**:
+   - voici ce que j'ai etudier a gomycode trie les skills pertinents : 
+   Introduction to Web Development
+   HTML Foundations
+CSS Essentials
+Javascript Basics
+Javascript & the DOM
+Advanced CSS
+Fullstack integration and Version Control with Git
+----
+ES6
+REACT JS
+JSX and React Components
+React Props
+React State
+React Hooks
+API
+React Router
+Managing State in React
+Redux
+TypeScript 5 Fundamentals
+Building React Apps with TypeScript
+React with Next.js
+React Debugging
+
+   - Proficiency levels (optional) (met les toi meme je pourais les modifier plutard)
+
+### Portfolio
+1. **Projects**:
+   - EDA
+   - Site vitrine avec store piece auto et logiciels pour un atelier d'electronique et diagnostique automobile. codé from scrach avec html css js (ameliore la description)
+   - edauto.netlify.com https://github.com/MezdadAchour/EDA.git
+   - Images or Screenshots of the projects (je vais le mettre plutard)
+
+   ajoute 2 autres emplacements ou je mettrais 2 autre projets plutardn
+
+### Blog
+1. **Blog Posts**: Do you have any articles or blog posts you want to feature?  non . If so, provide titles, dates, and brief descriptions.
+
+### Contact
+1. **Contact Form Details**: Do you want to keep the contact form as is? If not, specify any changes.
+
+### Design and Styling
+1. **Preferred Color Scheme**: style glass-morphism, bento, modern, minimalist. change la couleur avec une couleur de ton choix (pertinente)
+2. **Font Choices**: Do you have any preferred fonts?(tu peut choisir pour moi)
+
+Once I have this information, I can help you modify the template accordingly.
